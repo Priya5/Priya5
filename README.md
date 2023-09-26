@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priya5)](https://git.io/streak-stats)
+![Priya5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priya5&theme=transparent&show_icons=true)
